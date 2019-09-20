@@ -1,3 +1,0 @@
-1,sahi,22,ase,dev,india
-2,vishu,22,ase,sales,india
-3,lahari,21,ase,army,india
